@@ -61,7 +61,7 @@ You should have [Python](https://www.python.org/), [Java SDK](https://www.oracle
    ![Run](/images/run.png)
 
 
-3. It'll take about a minute to compare all the sequences. Once finished, you'll see the results in a csv file `final_scores.csv' like this:
+3. It'll take about a minute to compare all the sequences. Once finished, you'll see the results in a csv file `final_scores.csv` like this:
 
 ![Final Scores](/images/final_scores.png)
 
