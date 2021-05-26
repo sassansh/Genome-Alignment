@@ -4,7 +4,7 @@
  <a href="https://github.com/sassansh/Genome-Alignment">
     <img src="/images/logo.png" alt="Logo" width="80" height="80">
   </a>
-  <h2 align="center">InsightUBC ✨</h2>
+  <h2 align="center">Genome Alignment ✨</h2>
 
   <p align="center">
     Algorithm to align genome sequences with Time and Physical Memory constraints. Built as a small assignment for UBC CPSC 320 (Intermediate Algorithm Design and Analysis).
